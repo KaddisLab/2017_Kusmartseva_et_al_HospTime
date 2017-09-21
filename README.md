@@ -1,7 +1,7 @@
-# 2017_Kusmartseva_HospitalTime
+# 2017_Kusmartseva_et_al_HospTime
 
-This repository contains [Jupyter Notebooks](http://jupyter.org/) and their dependencies to allow recreation of our results. 
-The data was analyzed using [SAS](http://www.sas.com/en_us/home.html). We also provide PDF versions of the notebooks.
+This repository contains [Jupyter Notebooks](http://jupyter.org/), and their dependencies, allowing recreation of our results. 
+The data was analyzed using [SAS](http://www.sas.com/en_us/home.html) and R. We also provide PDF versions of the notebooks.
 Jupyter Notebooks support a growing number of [languages](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels), however running the SAS kernel requires a LINUX system which in turn requires a SAS licence for LINUX.
 
 
