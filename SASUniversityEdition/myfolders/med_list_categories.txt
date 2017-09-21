@@ -1,0 +1,139 @@
+Anestetics	Antibiotics	Cardiovascular	Hormonal	Others	Fluids_Electrolytes
+ diprivan	 acyclovir	 amiodarone	 Insulin	 acetylcysteine	 .9NaCl
+ Diprivan	 amicillin	 apresoline	 Methyl Prednisone	 albuterol	 bicarb
+ Fentanyl	 AMPICILLIN	 atenelol	 Reg Insulin	 albuterol nebs	 CA CHLORIDE
+fentanyl vecuronium	 ancef	 Atropine	 solumedrol	 artificial tears	 Ca Glucanate
+ fentanyl	 Cardine	 DDAVP	 T4	 ativan	 Ca Gluconate
+ MORPHINE	 cefazolin	 digoxin	Hydrocortisone	 atrovent	 CaCl
+ Narcan	CEFEPINE	 dopamine	Insulin	 baclofen	 CaGl
+ Norcuron	cefepime	 ephedrine	Levothyroxine	 combivent	 CaGluc
+ Norcuron	 CEFEPIME	 EPI	L-THYROX	 fluoxetine	 Calcium Chloride
+ Pancuronium	 Ceftriaxone	 epinephrine	sollumedrol	 Heparin	 D50
+ pavulon	 CETTRIAXONE	 Hydralazine	Solu Medrol	 Lovenox	 d50w
+ Propofol	 CIPRO	 Labatelol	Solumedrol	 Nexium	 D5W
+ Succinylcholine	 Clindamycin	 Lasix	Steroids	 Pepcid	 Dextrose
+ Vecuronium	 CUNDAMYCIN	levophed	sul Bicarb Decadron	 Protnoix	 ferrous sulfate
+ VECURONIUM	 DIFLUCAN	 LEVOPHED	Synthroid	 PROTONIX	 K
+Diprivan	 Erythromycin lactobionate	 lidocaine	T4	 Proventil	 K PHOS
+Fentanyl	 Flagyl	 lisinopril	T4	 Ursodiol	 K+
+fentanyl	 FORTAZ	 Lopressor	Thyroxin	 vit k	 KAcetate
+FENTANYL (MGS)	 GENTAMYCIN	 Mannitol	Thyroxine	 Xopenex	 KCI
+FENTANYL (MGS)	 LEVAQUIN	 Neosynephrine	SOLUMEDROL (MGS)	ALBUTEROL	 KCL
+fentynl	 MAXIPINE	 Nimodopine		Albuterol	 KPhos
+Morphine	 Neo	 nipride		albuterol	 Mag Sulfate
+MORPHINE	 oxacillin	 Nitrocor		Albuterol	magnesium1gram
+narcan(naloxone)	 rocephen	 NITROPRUSSIDE		anticonvulusants	 magnesium
+Narcan	 ROCEPHIN	 norepi		artificial tears	 magSO4
+Narcan	 unasyn	 phenylephrine		Aspirin	 Mg
+NARCAN	 Vanco	 Pitressin		ATIVAN	 mg sulfate
+narcan	 Vanco	 simvastin		Atrovent	 MgSO4
+norcuron	 Vancomycin	 Vasopressin		Aztrovent	 na bicarb
+Panc	 Vancomycin Tham	 venofer		benedryl	 NAHCO3
+Pancuronium	 Zantac	5% Albumin		Cerebyx	 PO4
+PANCURONIUM	 Zinacef	Albumin		combivent	 Sodiumphosphate
+Pancuronium	 zithromax	AMIDARONE		docusate liquid	 vitamin E
+pancuronium	 Zosyn	Amiodarone		Enoxaparin	.45NaCl
+pavulon	Acyclovir	AMNIODARONE		Fosphenitoin	.9NaCl
+pavulon	Amphotericin	antihypertensives		Heparin	4 NS with 20 KClLR
+Pavulon	Ancef	arginine vasopressin		Lacrilube	BICARB
+PAVULON	ANCEF (GMS)	atropine		levabuterol	Ca
+Pavulon	ancef 1 gm q8	BREVIBLOC		Mucomyst	Ca Gluconate
+Propofol	Ancer	Cardene		mycomyst	cacl
+PROPOFOL	ANTIBIOTIC	Cardizem		natural tears	Cagluc  
+Rocur	antibiotics	ddavp		pantoranzole	Cagluconate
+rocuronium	ANTIBIOYTICS	desmopressin		Pepcid	Calcium
+rocuronium	Azithromyacin	Digoxin		Phytonadine	calcium chloride
+ROCURONIUM	azithromycin	diuretics		Phytonadione	CALCIUM CHLORIDE (GMS)
+ROCURONIUM CC	Azythromicin	Dobutamine		Prevacid	calcium gluconate
+ROCURONIUM CC	Cefazolin	Dopamine		Protonix	D5
+VACURONIUM	Cefepime	dopamine cefepime		Thorazine	D5 1
+Vecuronium	cefepime 2gm IV q12hrs	DOPAMINE NEO		Tylenol	D50
+VECURONIUM	CEFTAZIDIME	duoneb		ursodial	d50w
+VECURONIUM	ceftriaxone	Ephedrine		VALIUM	D5W
+Vecuronium	Ceftrioxone	EPI		vit C gtt	dextrose
+vecuronium	Cefuroxime	Epinephrine		vit k	ELECTROLYTES
+VENCURONIUM	CEFUROXINE	Esmolol		Vitamin K	K
+ZEMURON	chlorhexidine gluconate	esmolol gtt 10-300		Vitamin K 1g	K phos
+zemuron	Cipro	Hespan		ALBUTEROL (MGS)	K3PO3
+ZEMURON	Ciprofloxacin	HETASTARCH		Betadine	K3PO4
+NORCURON (MGS)	CLEOCIN	Hydralazine		keppra	KCL
+Vercuronium	Clindamycin	LABETALOL		 Benadryl	KCL (MEQ)
+Atracurium	clindamycin	Labetolol		ALBUTEROL (MGS)	Khos
+VERSED	Clindanycin	labetorol		AMINOPHLLINE	KPhos
+Forane	CLYNDAMYCIN	Lasix		BENADRYL	k-phos
+ Ketamine	Diflucan	LEVO		COLACE	KPO4
+Cisatracurium	ERYTHROMYCIN (GMS)	Levophed		Levetiracetam	Lactated Ringers
+Naloxone	esomeprazole	LEVOPHED fortaz		lovenox	LR
+NIMBEX	Flagyl	Lidocaine			Mag
+	Fluconazale	Lopressor			mag sulfate
+	Fluconazole	manitol			Mag. Sulfate
+	FORTAZ	Mannitol			Magnesium Sulfate
+	Gentamycin	Mannitol Pavulon			Mg
+	invanz1gram	Metop			MgSO4
+	Invanz	Metoprolol			na bicarb
+	KEFZOL	neosynepherine			NaBicarb
+	LEVAQUIN	neosynephrine			NACHO3
+	levofloxacin	Neosynephrine			NaCO3
+	levoquin	Neosynephrine  Solumederol			NaHCO3
+	Merrem	NEOSYNEPHRINE (MCGS/KG/MIN)			NaPO4
+	Metronidazol	Nicardipine			NS
+	Metrozin	Nimodopine			NS Bolus
+	Miropenem	NIPRIDE			phosphorus
+	MULTI ABX	Nitropast			Potassium
+	MULTI ANTIBIOTICS	Phentolamine			potassiumchloride20meq
+	MULTIPLE ANTIBIOTICS	PHENYLEPH			Potassium Phos
+	Nafcillin	phenylephrine			potassium phosphate
+	NEO	Pitressin			Sodium  Bicarb
+	NEO GTT	REGATINE			Sodium Bicarb
+	NEOMYCIN	REGITINE			Sodium Phosphate
+	Nystatin	vasodilators			Vit. E
+	NYSTATIN (UNITS)	Vasopressin			d51
+	OXACILLIN	Vasopressors			PLASMOLYTE
+	piperacillin	VASSOPRESSIN			2ns
+	RIFAMIPIN	EPHEDRINE (MG)			Mag sulf
+	Rifampin	AMIO			potassium chloride
+	ROCEPHIN	 nitro			 Potassium CHL
+	Tequin	 Albumin 5%			PLASMA
+	timentin	 nimotipine			K+ PHOSPHATE (MML)
+	Tygacil	 dopamin			KCL (MGS)
+	Unasyn	Vasotec			HCO3
+	Vanco	PRESSORS			Cagluc
+	VANCO/ANCEF	Hespan - 1 unit			KCLZosyn
+	Vancomycin	Duo Neb			DSW
+	VANCOMYCIN (MGS)	 Bumex			Cacag
+	Zithromax	norepinehrine			Ca++
+	Zosyn	Lidocain			K+
+	Zosyn.	 Betadur			mag sul
+	Zythromax	 Levophe			Magnesium
+	CLINDAMYCIN (MGS)	Vaso			phos
+	Ancef 1g q6h	CARDEINE			sod
+	Ancef 1 gram	dopa			Sod Phos
+	Maxipime	Do			sodium biocarb
+	ERYTHROMYCIN  (MGS)	MILRINONE			Thiosulphate
+	CEFAZOLIN (MGS)	duoneb zosyn			
+	CLINDAMYCIN (MGS)				
+	FORTAZ (GMS)				
+	CLINDAMYCIN (MGS)				
+	CEFAZOLIN SODIUM (GMS)				
+	Maxipime				
+	TOBRAMYCIN				
+	Antibiotic-Ancef				
+	NEOMYCIN (MGS)				
+	UNASYN (GMS)				
+	NEOMYCIN (GMS)				
+	Ancef Duedenal Flush				
+	Clinda				
+	Cefaplime				
+	CEFOTAXIME				
+	Clindamyicin				
+	CLOACIN				
+	Gentamicin				
+	doripenem				
+	IMIPENEM				
+	PENICILLIN				
+	Rocephin0				
+	zoayn				
+	zocyn				
+	Zyvox				
+	ANCF				
+	MYCAMINE				

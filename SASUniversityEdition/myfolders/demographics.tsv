@@ -1,0 +1,307 @@
+DonorType	abo_subtype	ptid	oppc_PancreasWT	oppc_Gender	oppc_Ethnicity	oppc_ABO	multi_organ_donor	non_hrt_beat_donor	oppc_ageR	oppc_heightR	oppc_weightR	oppc_bmiR	cod_final	death_mech_final	replace
+Virus infected cell line		100					No	Unknown							TRUE
+Virus infected cell line		101					No	Unknown							TRUE
+CMA		102					No	Unknown							TRUE
+Virus infected cell line		103					No	Unknown							TRUE
+Other		104					No	Unknown							TRUE
+Autoab Pos		503		Male	Hispanic/Latino		No	Unknown	47			24.7			TRUE
+Fulminant		1338		Male	Asian		No	Unknown	14				DKA, cerebral edema		TRUE
+		3000					No	Unknown							TRUE
+		3626					No	Unknown							TRUE
+		3678					No	Unknown							TRUE
+		3681					No	Unknown							TRUE
+		3717					No	Unknown							TRUE
+No diabetes	O	6001		Male	Caucasian	O+	Yes	No	22	185	75	21.9	HEAD TRAUMA	blunt injury	TRUE
+Autoab Pos	O	6002		Male	Caucasian	O+	Yes	No	39	177.8	75	23.7	HEAD TRAUMA		TRUE
+No diabetes	O	6003		Female	Caucasian	O+	Yes	No	23	160	75	29.3	HEAD TRAUMA	blunt injury	TRUE
+No diabetes		6004		Male	Caucasian	O+	No	Unknown	33				HEAD TRAUMA	intracranial hemorrhage/stroke	TRUE
+No diabetes	A1	6005		Female	Caucasian	A-	Yes	No	5	104	17	15.7	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+Other		6006		Male	Caucasian		No	Unknown	62						TRUE
+No diabetes	O	6007		Male	African Am	O+	Yes	No	9	143	41	20	ANOXIA		TRUE
+No diabetes	O	6008		Female	Caucasian	O+	Yes	Yes	50	160	62	24.2	HEAD TRAUMA	blunt injury	TRUE
+No diabetes	A1	6009		Male	Caucasian	A-	Yes	No	45	178	97	30.6	ANOXIA		TRUE
+No diabetes	A1	6010		Female	Caucasian	A-	Yes	Yes	47	170	56.8	19.7	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	O	6011		Female	African Am	O+	Yes	No	46	163	70	26.3	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	O	6012		Female	Caucasian	O+	Yes	Yes	68	168	67	23.7	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	A1	6013		Male	Caucasian	A+	Yes	No	65	193	90	24.2	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	O	6014		Male	Caucasian	O+	Yes	No	2	88	16	20.7	ANOXIA	drowning	TRUE
+No diabetes	A2	6015		Female	Caucasian	A+	Yes	Yes	39	178	102	32.2	ANOXIA	drug intoxication	TRUE
+No diabetes	A1	6016		Female	Caucasian	A+	Yes	No	64	168	88	31.2	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	A	6017		Female	Caucasian	A+	Yes	No	59	162.6	68	24.8	CEREBROVASCULAR/STROKE		TRUE
+Other		6018		Male	African Am		No	Unknown	18				Hyperglycemia		TRUE
+No diabetes	O	6019		Male	Caucasian	O-	Yes	No	42	175	95	31	HEAD TRAUMA	intracranial hemorrhage/stroke	TRUE
+No diabetes	A1	6020		Male	Caucasian	A+	Yes	Yes	60	185	102	29.8	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	O	6021		Female	Hispanic/Latino	O+	Yes	No	72	163	65	24.5	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	A1	6022		Male	Caucasian	A+	Yes	No	75	188	108	30.6	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+Autoab Pos	A2	6023		Male	Caucasian	A+	Yes	Yes	66	182.9	114	34	HEAD TRAUMA	intracranial hemorrhage/stroke	TRUE
+No diabetes	A1	6024		Male	Caucasian	A+	Yes	Yes	21	185	95	27.8	HEAD TRAUMA	blunt injury	TRUE
+T1D	O	6025		Male	Caucasian	O+	Yes	No	23.8	170.2	79	26.6	ANOXIA	drug intoxication	TRUE
+T1D	A2	6026	67.30	Male	Caucasian	A+	Yes	No	22.4	167.6	68	24.1	HEAD TRAUMA	gunshot wound	TRUE
+Autoab Pos	A	6027	52.90	Male	Caucasian	A+	Yes	No	18.8	178	63	19.9			TRUE
+T2D	O	6028	48.50	Male	African Am	O+	Yes	No	33.2	180.3	97.7	30.2	HEAD TRAUMA	gunshot wound	TRUE
+No diabetes	O	6029	79.30	Female	Hispanic/Latino	O+	Yes	No	24	163	60	22.6	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	O	6030	96.30	Male	Caucasian	O+	Yes	Yes	30.1	177.8	86	27.1	HEAD TRAUMA	blunt injury	TRUE
+T1D	A2	6031	40.20	Male	Caucasian	A+	Yes	No	39	182.9	82	24.5	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	O	6032	117.40	Male	Caucasian	O+	Yes	No	33.8	190	106	29.4	ANOXIA	cardiovascular	TRUE
+T1D	B	6033	35.00	Male	Caucasian	B+	Yes	No	40.6	172.7	72	24.1	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	A1	6034	75.40	Female	Caucasian	A+	Yes	No	32	157.5	62	25.2	HEAD TRAUMA	blunt injury	TRUE
+T1D	O	6035	42.10	Male	Caucasian	O+	Yes	No	32.1	177.8	86	27.1	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	A1	6036	31.13	Female	African Am	A+	Yes	No	49.2	152.4	59	25.5	ANOXIA	cardiovascular	TRUE
+T2D	O	6037	65.80	Male	Caucasian	O+	Yes	No	76.3	182.9	90	25.5	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	A1	6038	39.50	Female	Caucasian	A+	Yes	No	37.2	165.1	84	30.9	ANOXIA	cardiovascular	TRUE
+T1D	O	6039	42.20	Female	Caucasian		Yes	No	28.7	177.8	74	23.4	HEAD TRAUMA	blunt injury	TRUE
+T1D	A1B	6040	64.90	Female	Caucasian	AB+	Yes	No	50	165.1	85	31.6	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	O	6041	32.50	Male	Caucasian	O+	Yes	Yes	26.3	175.3	87	28.4	CEREBROVASCULAR/STROKE	seizure	TRUE
+T1D Medalist		6042	34.02	Female	Caucasian		No	Unknown	60	177.8	74	23.4			TRUE
+Other	B	6043	129.50	Male	Caucasian	B+	Yes	No	26.7	180.3	148	45.7	Cerebral edema	cardiovascular	TRUE
+Autoab Pos	B	6044	83.78	Male	Hispanic/Latino		Yes	No	41.4	173	82	27.4	HEAD TRAUMA	blunt injury	TRUE
+T1D	A	6045	50.81	Male	Caucasian	A+	Yes	No	26.4	193	86	23.1	HEAD TRAUMA	blunt injury	TRUE
+T1D	A1	6046	34.02	Female	Caucasian	A+	Yes	No	18.8	157.5	62	25.2	ANOXIA	none of the above	TRUE
+No diabetes	O	6047	53.02	Male	Caucasian	O-	Yes	No	7.8	111.8	30	23.9	ANOXIA	drowning	TRUE
+No diabetes	O	6048	139.00	Male	Caucasian	O-	Yes	No	30	165.1	56	20.6	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	B	6049	15.80	Female	African Am	B+	Yes	No	15	157.5	52	20.8	ANOXIA	dka	TRUE
+T1D Medalist		6050	36.00	Male	Caucasian		No	Unknown	82						TRUE
+T1D	B	6051	33.79	Male	Caucasian	B+	Yes	No	20.3	180.3	72	22.7	HEAD TRAUMA	blunt injury	TRUE
+T1D	O	6052	22.10	Male	African Am	O-	Yes	No	12	165.1	56	20.3		none of the above	TRUE
+No diabetes	O	6053	19.41	Male	Caucasian	O+	Yes	No	25	167.6	59	21.2	HEAD TRAUMA	blunt injury	TRUE
+T1D	A1	6054	29.45	Female	Caucasian	A+	Yes	No	35.1	157.5	75	30.4	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	B	6055	63.10	Male	Caucasian	B-	Yes	No	27	182.9	76	22.7	ANOXIA	seizure	TRUE
+T1D Medalist		6056	13.33	Male	Caucasian		No	Unknown	93	180.3	60	19.5	Multi system organ failure		TRUE
+No diabetes	O	6057	104.36	Male	Caucasian	O+	Yes	No	22	188	92	26	HEAD TRAUMA	blunt injury	TRUE
+No diabetes	O	6058	52.68	Male	Hispanic/Latino	O+	Yes	No	27	165.1	52	19.1	HEAD TRAUMA	blunt injury	TRUE
+T2D	B	6059	74.38	Female	Hispanic/Latino	B+	Yes	No	18.8	162.6	106	39.1	ANOXIA	cardiovascular	TRUE
+No diabetes	A1	6060	104.00	Male	Caucasian	A+	Yes	No	24	175.3	100	32.7	HEAD TRAUMA	blunt injury	TRUE
+T1D	A	6061	28.60	Male	Caucasian	A+	Yes	No	28.1	172.7	66	22.1	CEREBROVASCULAR/STROKE		TRUE
+T1D	B	6062	18.20	Male	African Am	B+	Yes	No	10.7	142.2	48	21.9	Other	None of the above	TRUE
+T1D	A1	6063	11.20	Male	Caucasian	A-	Yes	No	4.4	81.3	16	23.8	ANOXIA	asphyxiation	TRUE
+T1D	A1	6064	46.15	Female	Caucasian	A+	Yes	No	19.6	162.6	59	22.6	ANOXIA	cardiovascular, dka	TRUE
+T1D Medalist		6065	47.60	Female	Caucasian		No	Unknown	79	167.6	79	29		cardiovascular	TRUE
+T1D Medalist		6066	69.00	Male	Caucasian		No	Unknown	78	172.7	92	30.9		cardiovascular	TRUE
+T1D	O	6067	32.00	Female	Hispanic/Latino	O+	Yes	No	32.6	147.3	58	26.8	ANOXIA	cardiovascular	TRUE
+T1D Medalist		6068	11.50	Female	Caucasian		No	Unknown	72	157.5	54	21.9	Pre-Existing Condition	renal failure	TRUE
+T1D	B	6069	55.70	Male	African Am	B+	Yes	No	22.9	190.5	104	28.8	HEAD TRAUMA	blunt injury	TRUE
+T1D	A1	6070	39.10	Female	Caucasian	A+	Yes	No	22.6	167.6	61	21.6	ANOXIA	dka	TRUE
+T1D		6071	11.20	Female	Caucasian		No	Unknown	28	165.1	58	19.5	Pre-Existing Condition	renal failure	TRUE
+No diabetes	A2	6072	17.30	Female	Caucasian		Yes	No	1.2	88	11	14.2	ANOXIA	drowning	TRUE
+No diabetes	O	6073	66.50	Male	Caucasian	O+	Yes	No	19.2	165.1	98	36	ANOXIA	cardiovascular	TRUE
+T1D Medalist		6074		Female	Caucasian		No	Unknown	73	160	91	19.5	ANOXIA		TRUE
+No diabetes	B	6075	47.29	Male	African Am	B+	Yes	No	16	137.2	30	14.9	ANOXIA	asphyxiation	TRUE
+T1D	O	6076	37.32	Male	Caucasian	O+	Yes	No	25.8	190.5	68	18.8	ANOXIA	dka	TRUE
+T1D	A1	6077	39.70	Female	Caucasian	A+	Yes	No	32.9	165.1	60	22	ANOXIA		TRUE
+T1D Medalist		6078	28.57	Male	Caucasian		No	Unknown	59	180.3	70	21.6	Pre-Existing Condition	hodgkins	TRUE
+T1D	O	6079	29.90	Female	Caucasian	O+	Yes	No	11.1	152.4	43	18.6	ANOXIA		TRUE
+Autoab Pos	A1	6080	53.60	Female	Caucasian	A+	Yes	No	69.2	149.9	48	21.3	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	A1	6081	62.43	Male	Hispanic/Latino	A+	Yes	Yes	31.4	167.6	78	28	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+Gestational diabetes	O	6082	70.14	Female	Caucasian	O+	Yes	No	33.2	160	88	34.4	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	A1	6083	41.75	Female	Caucasian	A+	Yes	No	15.2	165.1	50	18.4	DKA, cerebral edema	natural causes	TRUE
+T1D	A1	6084	8.40	Male	Caucasian	A+	Yes	No	14.2	151	60	26.3	ANOXIA	dka	TRUE
+T1D Medalist		6085	31.41	Male	Caucasian		No	Unknown	89	182.9	68	20.3	Pre-Existing Condition	cardiovascular	TRUE
+T1D Medalist		6086		Female	Caucasian		No	Unknown	71	157.5	57	23.6	Fallopian Tube Cancer		TRUE
+T1D	O	6087	58.40	Male	Caucasian	O	Yes	No	17.5	180	71	21.9	HEAD TRAUMA	gunshot wound	TRUE
+T1D	O	6088	32.00	Male	Caucasian	O+	Yes	Yes	31.2	170.2	78	27	HEAD TRAUMA	gunshot wound	TRUE
+T1D	B	6089	56.80	Male	Caucasian	B+	Yes	No	14.3	162.6	69	26	ANOXIA	cardiovascular	TRUE
+Autoab Pos	O	6090	19.30	Male	Hispanic/Latino	O+	Yes	No	2.2	95	17	18.8	HEAD TRAUMA	blunt injury	TRUE
+No diabetes	O	6091	95.50	Male	Caucasian	O+	Yes	No	27.1	175.3	108	35.6	HEAD TRAUMA	blunt injury	TRUE
+No diabetes	B	6092	5.30	Female	African Am	B+	Yes	No	0.5	66	6	13.8	ANOXIA	cardiovascular	TRUE
+T1D Medalist		6093	44.30	Male	Caucasian		No	Unknown	81	177.8	77.6	24.5	Respiratory Distress/Failure		TRUE
+No diabetes	O	6094	21.17	Male	African Am	O+	Yes	No	2.9	94.5	14	15.8	ANOXIA	drowning	TRUE
+No diabetes		6095	115.30	Male	Hispanic/Latino	O+	No	Unknown	40	165.1	97	35.5	Spinal Cord Injury	other	TRUE
+No diabetes	B	6096	51.50	Female	African Am	B+	Yes	No	16	162.6	50	18.8	HEAD TRAUMA	gunshot wound	TRUE
+No diabetes	A1	6097	85.20	Female	Caucasian	A-	Yes	No	43.1	165	99	36.4	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	A2	6098	91.10	Male	Caucasian	A2-	Yes	No	17.8	180.3	74	22.8	HEAD TRAUMA	blunt injury	TRUE
+No diabetes	A2B	6099	85.56	Male	Caucasian	AB+	Yes	No	14.2	175.3	92	30	HEAD TRAUMA	blunt injury	TRUE
+T1D Medalist		6100		Male	Caucasian		No	Unknown	79	167.6	62	22.3		sepsis	TRUE
+Autoab Pos	A1	6101	102.43	Male	Caucasian	A+	Yes	No	64.8	190	124	34.3	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	A1	6102	87.32	Female	Caucasian	A+	Yes	Yes	45.1	168	99	35.1	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	O	6103	10.35	Male	Caucasian	O+	Yes	No	1.5	68.6	8	16.8	ANOXIA	asphyxiation	TRUE
+No diabetes	O	6104	55.20	Male	Caucasian	O+	Yes	No	41	190.5	74	20.5	ANOXIA	drug intoxication	TRUE
+Cystic fibrosis	A1	6105	149.88	Female	Caucasian	A+	Yes	Yes	31.1	154.9	49	20.4	Cystic Fibrosis		TRUE
+No diabetes	A1	6106	16.32	Male	Caucasian	A+	Yes	No	2.9	94	16	18.1	ANOXIA	drowning	TRUE
+No diabetes	O	6107	15.88	Male	African Am	O+	Yes	Yes	2.2	96.5	15	15.9	ANOXIA	blunt injury	TRUE
+T2D	O	6108	90.95	Male	Asian	O+	Yes	No	57.9	170.2	88	30.4	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T2D	O	6109	120.93	Female	Hispanic/Latino	O+	Yes	No	48.8	152.4	75	32.5	CEREBROVASCULAR/STROKE	ich/stroke, dka	TRUE
+T2D	O	6110	69.49	Female	African Am	O+	Yes	Yes	20.7	165.1	108	40	CEREBROVASCULAR/STROKE	ich/stroke, dka	TRUE
+Other	O	6111	64.76	Female	Hispanic/Latino	O+	Yes	No	32	151.9	55	23.8	HEAD TRAUMA	blunt injury	TRUE
+No diabetes	O	6112	29.98	Female	Hispanic/Latino	O+	Yes	No	6.3	119.4	26	18.4	HEAD TRAUMA	blunt injury	TRUE
+T1D	B	6113	33.50	Female	Caucasian	B+	Yes	No	13.1	139.7	48	24.5	HEAD TRAUMA	blunt injury	TRUE
+T2D	A1	6114	100.00	Male	Caucasian	A1+	Yes	No	42.8	175.3	95	31	ANOXIA	asphyxiation	TRUE
+No diabetes	A	6115	3.90	Male	Caucasian	A1-	Yes	No	0.42	64	7	17.1	ANOXIA	sids	TRUE
+Autoab Pos	A2	6116	3.12	Female	Hispanic/Latino	A2+	Yes	Yes	0.17	45.7	5	23.6	alobar holoprosencephaly, obstructive hydrocephalu		TRUE
+No diabetes	B	6117	5.40	Male	Caucasian	B-	Yes	No	0.33	66	8.5	18.4	HEAD TRAUMA	blunt injury	TRUE
+Other	O	6118	69.25	Female	Hispanic/Latino	O+	Yes	No	15.5	175.3	89	30.4	CEREBROVASCULAR/STROKE		TRUE
+T1D	A2	6119	23.43	Male	Caucasian	A2+	Yes	No	27.8	163	51	19.4	ANOXIA	cardiovascular	TRUE
+No diabetes		6120		Female	Caucasian	A+	No	Unknown	0		3		Renal disease	natural causes	TRUE
+T1D	O	6121		Female	Caucasian	O+	Yes	No	33.9	170.2	52	18	ANOXIA	dka	TRUE
+No diabetes	O	6122	3.20	Female		O+	Yes	No	0.42	68	6	13.8	HEAD TRAUMA		TRUE
+Autoab Pos	O	6123	48.34	Female	Caucasian	O+	Yes	Yes	23.2	160	45	17.6	HEAD TRAUMA	blunt injury	TRUE
+T2D	O	6124	103.87	Male	Caucasian	O+	Yes	Yes	62.3	167.6	95	33.7	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	A1	6125	8.81	Male	Caucasian	A1+	Yes	Yes	0.42	66	8	18.9	Meningitis		TRUE
+No diabetes	O	6126	80.20	Male	Caucasian	O+	Yes	No	25.2	175.3	77	25.1	HEAD TRAUMA	blunt injury	TRUE
+T2D	O	6127	58.93	Female	Caucasian	O+	Yes	No	44.8	172.7	91	30.4	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	O	6128	26.80	Female	Caucasian	O-	Yes	No	33.8	147.3	48	22.2	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	O	6129	58.84	Female	Caucasian	O-	Yes	No	42.9	152.4	54	23.4	ANOXIA	intracranial hemorrhage/stroke	TRUE
+No diabetes	A	6130	22.15	Male	Caucasian	A+	Yes	No	5.2	114.3	24	18.5	HEAD TRAUMA	blunt injury	TRUE
+No diabetes	B	6131	108.92	Male	Caucasian	B+	Yes	Yes	24.2	182.9	83	24.8	ANOXIA	drug intoxication	TRUE
+T2D	O	6132	69.51	Female	Hispanic/Latino	O+	Yes	No	55.8	157.5	110	44.6	ANOXIA	cardiovascular	TRUE
+T2D	O	6133	70.42	Female	Caucasian	O-	Yes	No	45.8	152.4	100	40.2	ANOXIA	cardiovascular	TRUE
+No diabetes	O	6134	82.42	Male	Caucasian	O+	Yes	No	26.7	180.3	65	20.1	ANOXIA	drug intoxication	TRUE
+T1D	A	6135	31.39	Male	Caucasian	A-	Yes	No	43.5	167.6	81	28.7	ANOXIA	cardiovascular	TRUE
+Cystic fibrosis	A	6136	134.10	Female	Caucasian	A+	Yes	Yes	29.3	162.6	60	22.6	ANOXIA	cardiovascular	TRUE
+No diabetes	O	6137	39.21	Female	Hispanic/Latino	O+	Yes	No	8.9	152.4	56	24.2	CEREBROVASCULAR/STROKE		TRUE
+T1D	O	6138	99.66	Female	Caucasian	O+	Yes	No	49.2	167.6	95	33.7	ANOXIA	cardiovascular	TRUE
+T2D	A1B	6139	79.30	Female	Hispanic/Latino	AB+	Yes	No	37.2	154.9	109	45.4	ANOXIA	seizure	TRUE
+No diabetes	A1	6140	65.10	Male	Caucasian	A+	Yes	No	38	170.2	59	21.7	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	A1	6141	49.87	Male	Caucasian	A+	Yes	No	36.7	182.9	87	26	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T2D	A1	6142	70.16	Female	Hispanic/Latino	A+	Yes	No	29.8	160	88	34.4	Infectious Disease - Bacterial Meningitis	none of the above	TRUE
+T1D	A1	6143	35.70	Female	Caucasian	A-	Yes	No	32.6	175.3	80	26.1	ANOXIA	cardiovascular	TRUE
+No diabetes	B	6144	45.00	Female	Hispanic/Latino	B+	Yes	Yes	7.5	124.5	25	16.3	Respiratory Distress/Failure	natural causes	TRUE
+T1D		6145	42.19	Male	Caucasian	A+	No	Unknown	18	170.2	67	23.1	HEAD TRAUMA	blunt injury	TRUE
+Autoab Pos	A1	6147	65.27	Female	Caucasian	A+	Yes	No	23.8	152.4	76	32.9	HEAD TRAUMA	blunt injury	TRUE
+T1D	O	6148	26.36	Male	Caucasian	O+	Yes	No	17.1	165.1	65	23.9	ANOXIA	drug intoxication	TRUE
+T2D	A	6149	66.20	Female	African Am	A+	Yes	No	39.3	170.2	84	29.1	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	A1	6150	27.14	Male	Caucasian	A+	Yes	No	41.2	172.7	72	25.5	ANOXIA	cardiovascular, dka	TRUE
+Autoab Pos	A1	6151	25.00	Male	Caucasian	A+	Yes	No	30	182.9	81	24.2	ANOXIA		TRUE
+T1D	O	6152	25.25	Female	Caucasian	O+	Yes	Yes	29.6	167.6	85	30.1	ANOXIA	cardiovascular, dka	TRUE
+No diabetes	O	6153	67.75	Male	Hispanic/Latino	O+	No	No	15.2	167.6	58	20.5	HEAD TRAUMA		TRUE
+Autoab Pos	O	6154	65.97	Female	Caucasian	O+	Yes	No	48.5	162.6	65	24.5	HEAD TRAUMA	blunt injury	TRUE
+T1D	B	6155	34.80	Female	Caucasian		Yes	No	50	162.6	68	26	ANOXIA	cardiovascular, dka	TRUE
+Autoab Pos	A1	6156	72.50	Male	Caucasian	A+	Yes	No	40	185.4	68	19.8	HEAD TRAUMA	blunt injury	TRUE
+T2D+Incretin	A1	6157	84.52	Female	African Am	A+	Yes	No	74.2	162.6	105	39.5	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+Autoab Pos	B	6158	101.90	Male	Caucasian	B+	Yes	No	40.3	172.7	89	29.7	HEAD TRAUMA	gunshot wound	TRUE
+T1D	O	6159	45.40	Female	Caucasian	O+	Yes	No	50.8	152.4	82	35.5	CEREBROVASCULAR/STROKE		TRUE
+No diabetes	A1	6160	79.40	Male	Caucasian	A+	Yes	No	22.1	182.9	80	23.9	HEAD TRAUMA	gunshot wound	TRUE
+T1D	O	6161	39.80	Female	Caucasian	O+	Yes	No	19.2	167.6	102	36.1	CEREBROVASCULAR/STROKE	cardiovascular	TRUE
+No diabetes	B	6162	81.50	Male	African Am	B+	Yes	No	22.7	188	102	28.9	HEAD TRAUMA	gunshot wound	TRUE
+T1D	A1	6163	41.50	Male	Caucasian	A+	Yes	No	32.4	175.3	78	25.5	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	A1	6164	2.98	Male	Caucasian	A+	Yes	No	0.03	53.3	4.7	16.5	ANOXIA		TRUE
+No diabetes	O	6165	97.41	Female	Caucasian	O+	Yes	No	45.8	165.1	68	25	CEREBROVASCULAR/STROKE		TRUE
+Other	O	6166	50.30	Female	African Am	O+	Yes	No	26.5	167.6	58	20.5	ANOXIA	cardiovascular	TRUE
+Autoab Pos	O	6167	88.30	Male	Caucasian	O+	Yes	No	37	170.2	76	26.3	HEAD TRAUMA	blunt injury	TRUE
+No diabetes	O	6168	88.76	Male	Hispanic/Latino	O+	Yes	No	51	170.2	73	25.2	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	O	6169	38.05	Female	Hispanic/Latino	O+	Yes	No	27.6	165.1	68	25	ANOXIA	cardiovascular	TRUE
+Autoab Pos	O	6170	110.30	Female	African Am	O+	Yes	No	34.4	175.3	113	36.9	ANOXIA	cardiovascular	TRUE
+Autoab Pos	A1	6171	17.70	Female	Caucasian	A+	Yes	No	4.3	106.7	17	14.8	ANOXIA	cardiovascular	TRUE
+No diabetes	A1	6172	59.70	Female	Caucasian	A+	Yes	No	19.2	172.7	97	32.4	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	O	6173	38.90	Male	Caucasian	O-	Yes	No	44.1	193	89	23.9	ANOXIA	cardiovascular	TRUE
+No diabetes	O	6174	79.30	Male	Caucasian	O+	Yes	No	20.8	196	75	19.5	CEREBROVASCULAR/STROKE	blunt injury	TRUE
+T1D	O	6175	50.40	Male	Caucasian	O-	Yes	No	42.9	160	51	19.9	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T2D	A1	6176	33.90	Male	Hispanic/Latino	A+	Yes	No	45.1	170.2	73	25.3	ANOXIA		TRUE
+Gestational diabetes	A	6177	100.30	Female	Hispanic/Latino	A+	Yes	No	33.5	172.7	79	26.4	ANOXIA		TRUE
+No diabetes	A1	6178	72.70	Female	Caucasian	A+	Yes	No	24.5	182	92	27.5	ANOXIA	cardiovascular	TRUE
+No diabetes	O	6179	72.40	Female	Caucasian	O-	Yes	Yes	21.8	157.5	51	20.7	HEAD TRAUMA	blunt injury	TRUE
+T1D	A2	6180	36.70	Male	Caucasian	A+	Yes	No	27.1	177.8	82	25.9	HEAD TRAUMA	blunt injury	TRUE
+Autoab Pos	AB	6181	100.20	Male	Caucasian	AB+	Yes	No	31.9	185.4	75	21.9	HEAD TRAUMA	blunt injury	TRUE
+No diabetes		6182	17.80	Male	Caucasian	O+	No	Unknown	2	83	18	26	ANOXIA	seizure	TRUE
+No diabetes	O	6183	4.05	Male	African Am	O-	Yes	Yes	0.3	50.8	3.7	15.4	Perinatal Condition/Birth Defect	none of the above	TRUE
+Autoab Pos	O	6184	71.80	Female	Hispanic/Latino	O+	Yes	No	47.5	160	69	27	HEAD TRAUMA	gunshot wound	TRUE
+T2D+Incretin	B	6185	204.30	Male	African Am	B+	Yes	No	46	172.7	124	41.4	ANOXIA	natural causes	TRUE
+T2D+Incretin	A1	6186	73.30	Male	Caucasian	A+	Yes	No	68.3	182.9	70	20.9	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	O	6187	5.80	Male	Caucasian	O+	Yes	Yes	0.33	63.5	6.7	17.1	HEAD TRAUMA	blunt injury	TRUE
+T2D	A1	6188	120.40	Male	Hispanic/Latino	A+	Yes	No	36.1	180.3	99	30.6	ANOXIA	asphyxiation	TRUE
+T2D+Incretin	O	6189	133.70	Female	Caucasian	O+	Yes	Yes	48.5	180.3	117	36.1	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	A1	6190	9.20	Male	Hispanic/Latino	A+	Yes	No	0.83	84	9.7	14.2	Perinatal Condition/Birth Defect	none of the above	TRUE
+T2D	O	6191	36.50	Female	Caucasian	O+	Yes	No	62	152.4	46	19.9	CEREBROVASCULAR/STROKE		TRUE
+No diabetes		6192		Female	Hispanic/Latino		No	Unknown	0				Perinatal Condition/Birth Defect	natural causes	TRUE
+T1D	A	6193		Male	Caucasian	A+	Yes	No	26	177.8	72.6	24	ANOXIA	cardiovascular	TRUE
+T2D+Incretin	O	6194	57.10	Male	Caucasian	O-	Yes	No	47.4	177.8	75.3	23.7	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	A	6195	29.80	Male	Caucasian	A+	Yes	No	19.2	177.8	75	23.7	HEAD TRAUMA	blunt injury	TRUE
+T1D	A	6196	28.19	Female	African Am	A+	Yes	No	26	157	65.7	26.6	ANOXIA	cardiovascular, dka	TRUE
+Autoab Pos	O	6197	73.30	Male	African Am	O+	Yes	No	22	177.8	89	28.2	HEAD TRAUMA	gunshot wound	TRUE
+T1D	A	6198		Female	Hispanic/Latino	A+	Yes	No	22	165.1	63	23.1	CEREBROVASCULAR/STROKE		TRUE
+T2D+Incretin	A1	6199	114.10	Male	African Am	A+	Yes	No	53	195.6	113.3	29.6	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes		6200	4.29	Female	Hispanic/Latino	O+	No	Unknown	0	41	2.2	14.5	Pulmonary hypoplasia	respiratory	TRUE
+No diabetes		6201	3.20	Male	Caucasian		No	Unknown	0			11	ANOXIA	cardiovascular	TRUE
+Cystic fibrosis		6202	193.90	Male	Caucasian		No	Unknown	33	168	55.8	19.9	Renal disease	renal failure	TRUE
+T2D+Incretin	A1	6203	89.30	Male	Caucasian	A+	Yes	No	68	175	101	32.6	CEREBROVASCULAR/STROKE		TRUE
+T1D	O	6204	55.03	Male	Caucasian	O+	Yes	No	28	185	79	23.082542001	ANOXIA	cardiovascular	TRUE
+T1D	O	6205	33.61	Female	Caucasian	O+	Yes	No	40	164	60.7	22.6	ANOXIA	cardiovascular	TRUE
+T2D+Incretin	A1	6206	143.70	Male	Caucasian	A+	Yes	No	59	173	126.4	42.2	CEREBROVASCULAR/STROKE	blunt injury	TRUE
+T1D	B	6207	33.20	Female	African Am	B+	Yes	No	16	165.1	66.2	24.4	CEREBROVASCULAR/STROKE	drug intoxication	TRUE
+T1D	O	6208	27.94	Female	Caucasian	O+	Yes	No	32	165.1	63.8	23.4	ANOXIA	cardiovascular	TRUE
+T1D		6209	12.50	Female	Caucasian		No	Unknown	5	112	15	11.957908163	DKA, cerebral edema	dka	TRUE
+No diabetes		6210	3.50	Male	Caucasian	A+	No	Unknown	0	45.7	2.8	14	ANOXIA	natural causes	TRUE
+T1D		6211	33.00	Female	African Am	O+	No	Unknown	24	175.3	74.8	24.4	ANOXIA	seizure	TRUE
+T1D	A1	6212	43.50	Male	Caucasian	A-	Yes	No	20	175	89.2	29.1	ANOXIA	cardiovascular	TRUE
+Other	A	6213	94.47	Female	Caucasian	A+	Yes	No	24	160	101	39.4	ANOXIA	drug intoxication	TRUE
+No diabetes		6214	1.00	Male	Caucasian		No	Unknown	0	50.8	2.5	8	ANOXIA	cardiovascular	TRUE
+T1D	O	6215	56.46	Male	Caucasian	O+	Yes	No	34	177.8	84	26.6	ANOXIA	cardiovascular	TRUE
+Other	A	6216	87.65	Male	Caucasian	A+	Yes	No	28	180	78	23.9	ANOXIA	drug intoxication	TRUE
+No diabetes	O	6217	9.94	Male	Caucasian	O+	Yes	Yes	0.58	63.5	7.1	17.6	ANOXIA	cardiovascular	TRUE
+No diabetes	A	6218	0.73	Female	African Am	A+	Yes	Yes	0.08	55	5.2	17.2	ANOXIA	cardiovascular	TRUE
+No diabetes	AB	6219	4.99	Male	Hispanic/Latino	AB+	Yes	No	0.5	66	7.4	17	HEAD TRAUMA	blunt injury	TRUE
+T1D	A1B	6220	36.86	Female	Caucasian	AB-	Yes	Yes	35	165.1	74.7	27.4	ANOXIA	cardiovascular	TRUE
+T2D+Incretin	O	6221	73.90	Female	Caucasian	O+	Yes	No	61	165	92	33.7	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	O	6222	5.77	Male	Caucasian	O+	Yes	No	0.17	62	6.3	16.4	ANOXIA	cardiovascular	TRUE
+T1D	O	6223	38.70	Male	Caucasian	O+	Yes	No	61	172.7	70	23.4	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	O	6224	56.09	Female	Caucasian	O-	Yes	No	21	162.5	60.2	22.8	ANOXIA	cardiovascular	TRUE
+Other	AB	6225	46.70	Male	Caucasian	AB+	Yes	No	21	180.3	76.8	23.7	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+Pregnancy	O	6226	86.70	Female	Asian	O+	Yes	No	38	154.9	65.3	27.2	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	A1B	6227	60.40	Female	Caucasian	AB+	Yes	No	17	167.6	74.6	26.4	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	A1	6228	30.35	Male	Caucasian	A-	Yes	Yes	13	161	45	17.4	ANOXIA	seizure	TRUE
+No diabetes	O	6229	45.60	Female	Caucasian	O+	Yes	No	31	156	65.5	26.9	HEAD TRAUMA	blunt injury	TRUE
+No diabetes	B	6230	66.27	Male	Caucasian	B+	Yes	No	16	173	56.7	18.9	HEAD TRAUMA	gunshot wound	TRUE
+T1D	O	6231	38.10	Female	Caucasian	O-	Yes	No	49	154.9	61	25.4	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	A1	6232	49.40	Female	Caucasian	A+	Yes	No	14	155	50	20.8	HEAD TRAUMA	gunshot wound	TRUE
+No diabetes	A	6233	60.93	Male	Caucasian	A-	Yes	No	14	175	67	21.9	ANOXIA	cardiovascular	TRUE
+No diabetes	A1	6234	49.86	Female	Caucasian	A-	Yes	No	20	162.6	67.6	25.6	HEAD TRAUMA	blunt injury	TRUE
+No diabetes	O	6235	102.31	Male	Caucasian	O+	Yes	No	30	172.7	76	25.4	HEAD TRAUMA	gunshot wound	TRUE
+T1D	A1	6236	51.96	Male	Caucasian	A+	Yes	No	25	185.4	69	20.1	ANOXIA	natural causes	TRUE
+T1D	O	6237	32.51	Female	Caucasian	O+	Yes	No	18	170	75	26	HEAD TRAUMA	blunt injury	TRUE
+No diabetes	A1	6238	91.50	Male	African Am	A+	Yes	No	20	185.4	74.3	21.7	HEAD TRAUMA	blunt injury	TRUE
+Gestational diabetes	A	6239	103.15	Female	African Am	A+	Yes	No	35	170.2	147	50.9	ANOXIA	cardiovascular	TRUE
+T1D	A1	6240	81.77	Female	Caucasian	A-	Yes	No	58	177.8	90.7	28.7	Other: Cardiovascular	cardiovascular	TRUE
+T1D	O	6241	24.92	Male	Caucasian	O+	Yes	No	33	185	63	18.4	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	O	6242	33.59	Male	Caucasian	O+	Yes	No	39	182.9	65.3	19.5	HEAD TRAUMA	intracranial hemorrhage/stroke	TRUE
+T1D	O	6243	29.35	Male	Caucasian	O+	Yes	No	13	165.1	58.1	21.3	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	O	6244	38.55	Male	Caucasian	O-	Yes	No	34	182.2	79.1	23.8	HEAD TRAUMA	blunt injury	TRUE
+T1D	A1	6245	31.58	Male	Caucasian	A+	Yes	No	22	182.8	77.7	23.2	HEAD TRAUMA	blunt injury	TRUE
+T1D	A	6246	14.26	Female	African Am	A+	Yes	No	41	167.6	59.6	21.1	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D		6247	59.77	Male	Caucasian	A+	No	Unknown	24	182.8	81.2	24.3	HEAD TRAUMA	blunt injury	TRUE
+Gestational diabetes	A1	6248	74.14	Female	Caucasian	A+	Yes	No	29	167.6	114.8	40.6	ANOXIA	cardiovascular	TRUE
+T2D	O	6249	53.94	Female	Asian	O+	Yes	No	45	152.4	75	32.3	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes	O	6250		Male	Caucasian	O+	Yes	No	40	180.3	90.7	27.9	HEAD TRAUMA	blunt injury	TRUE
+No diabetes	A1	6251	77.80	Female	Caucasian	A-	Yes	Yes	33	154.9	70	29.5	HEAD TRAUMA		TRUE
+T2D	A1	6252	79.33	Male	Caucasian	A+	Yes	No	20	175.3	116	37.8	HEAD TRAUMA	blunt injury	TRUE
+No diabetes	O	6253	85.29	Female		O+	Yes	No	19	157.5	85	34.3	HEAD TRAUMA	blunt injury	TRUE
+No diabetes	A1B	6254	69.90	Male	Caucasian	AB+	Yes	Yes	38	167.6	86	30.5	ANOXIA	asphyxiation	TRUE
+T2D	O	6255	104.16	Male	Caucasian	O+	Yes	No	55	177.8	93	29.4	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+Pregnancy	A	6257	55.85	Female	American Indian/Alaska Native	A+	Yes	No	19	165.1	125	45.9	HEAD TRAUMA	gunshot wound	TRUE
+T1D	A	6258	32.56	Female	Caucasian	A+	Yes	No	39	157.5	71.2	28.7	HEAD TRAUMA	blunt injury	TRUE
+T2D+Incretin	B	6259	189.60	Male	Caucasian	B+	Yes	No	57	190.5	117.9	32.3	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	B	6261		Male	Caucasian	B-	Yes	No	16	175.3	63.5	20.7	ANOXIA	none of the above	TRUE
+T1D	A1	6262	29.56	Male	African Am	A+	Yes	No	44	157.5	53.1	21.5	ANOXIA	cardiovascular	TRUE
+T1D	A	6263	51.59	Male	Hispanic/Latino	A+	Yes	No	34	172	69.5	23.5	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	A1	6264	20.35	Female	Caucasian	A-	Yes	Yes	12	124.5	34	22	DKA	dka	TRUE
+T1D	O	6265	18.48	Male	Caucasian	O+	Yes	No	11	142.2	26	12.9	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D	B	6266	51.66	Male	Caucasian	B+	Yes	No	30	180.3	87.9	27.1	ANOXIA	natural causes	TRUE
+Autoab Pos	B	6267	47.99	Female	Caucasian	B+	Yes	No	23	165.1	64	23.5	ANOXIA	drug intoxication	TRUE
+T1D	O	6268	41.10	Female	Caucasian	O	Yes	No	12	160	68	26.5625	ANOXIA		TRUE
+T2D	B	6269	86.35	Male	African Am	B+	Yes	No	71	180.3	107	33	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+Gastric Bypass	O	6270	102.29	Female	Caucasian	O+	Yes	No	48	175	81.5	26.6	ANOXIA	asphyxiation	TRUE
+No diabetes	A	6271	97.99	Male	Caucasian	A+	Yes	Yes	17	177.8	77.1	24.4	HEAD TRAUMA	gunshot wound	TRUE
+T2D	B	6272	72.29	Female	African Am	B+	Yes	No	57	172	87.5	29.6	ANOXIA	cardiovascular	TRUE
+T2D	B	6273	93.43	Female	African Am	B+	Yes	No	45	162.6	104	39.1	ANOXIA	cardiovascular	TRUE
+Gastric Bypass		6274	70.78	Female	Caucasian	O-	No	Unknown	36	172.7	85.7	28.6		cardiovascular	TRUE
+T2D	A	6275	159.72	Male	Hispanic/Latino	A+	Yes	No	48	170.2	119.1	41	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+Other		6276	151.12	Female	Hispanic/Latino	A+	No	Unknown	20	157.5	53	21.5	ANOXIA	asphyxiation	TRUE
+T2D		6277	74.44	Male	African Am	O	No	Unknown	48	167.6	83	29.5	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes		6278	33.60	Female	African Am	A	No	Unknown	10	157.5	52.4	21.3	ANOXIA	cardiovascular	TRUE
+No diabetes		6279	80.17	Male	Caucasian	O+	No	Unknown	19	180.3	110.2	34	HEAD TRAUMA	blunt injury	TRUE
+T2D		6280	58.86	Male	African Am	B+	No	Unknown	47	180	91	28.1	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+T1D		6281	62.79	Male	Caucasian		No	Unknown	37	188	131	37.1	ANOXIA		TRUE
+No diabetes		6282	75.86	Male	Caucasian	A+	No	Unknown	14	182.8	140	41.9	HEAD TRAUMA	blunt injury	TRUE
+T2D+Incretin		6283	111.48	Female	Caucasian	O+	No	Unknown	56	168	79.4	28.1	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+Pending		6284	72.62	Female	African Am	B+	No	Unknown	24	172.7	81.6	27.3	HEAD TRAUMA	gunshot wound	TRUE
+T1D		6285	22.50	Female	Hispanic/Latino	O+	No	Unknown	22	158	54.4	21.8	HEAD TRAUMA	blunt injury	TRUE
+Transplant		6286		Female	Caucasian	O+	No	Unknown	52	160	54	21.1	ANOXIA	asphyxiation	TRUE
+Other		6287	52.06	Female	Caucasian	O+	No	Unknown	57	162.6	57.6	21.8	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes		6288	110.54	Male	Caucasian	O+	No	Unknown	55	177.8	119.5	37.7	HEAD TRAUMA	blunt injury	TRUE
+No diabetes		6289	88.00	Male	African Am	O+	No	Unknown	19	165	104.3	38.3	HEAD TRAUMA	blunt injury	TRUE
+No diabetes		6290	85.84	Male	Caucasian	O+	No	Unknown	58	194	84.9	22.5	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+Transplant		6291		Female	Caucasian	A+	No	Unknown	48	163	58	21.8	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes		6292	13.98	Male	Caucasian	O+	No	Unknown	3	96.5	18	19.32937797	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+No diabetes		6293	26.12	Female	Caucasian	O-	No	Unknown	9	54	35	18.6	ANOXIA	cardiovascular	TRUE
+No diabetes		6294	15.59	Male	American Indian/Alaska Native	O+	No	Unknown	1.5	82	14	20.820939917	ANOXIA	seizure	TRUE
+Pending		6295	66.42	Female	African Am	O+	No	Unknown	47	165.1	83	30.4	CEREBROVASCULAR/STROKE	intracranial hemorrhage/stroke	TRUE
+Pending		6296	33.24	Male	Hispanic/Latino	O+	No	Unknown	20	167.6	90	32	HEAD TRAUMA	blunt injury	TRUE
+		8003					No	Unknown							TRUE

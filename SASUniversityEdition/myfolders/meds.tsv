@@ -1,0 +1,370 @@
+nPODCaseID	dataSetsDemographicsDonorType	pt_steroids	pt_diuretics	pt_t3	pt_t4	anticonv	antihype	vasodil	ddavp	heparin	arginine	insulin	other_meds1	other_meds2	other_meds3
+100	Virus infected cell line														
+101	Virus infected cell line														
+102	CMA														
+103	Virus infected cell line														
+104															
+1338	Fulminant														
+3000															
+3005	Transplant														
+503	Autoab Pos														
+6001	No diabetes	Y	Y	N	Y	N	N	N	N	Y	N	N	ANCEF	NARCAN	REGATINE
+6002	Autoab Pos	Y	Y	N	Y	N	N	N	N	Y	N	Y	NEO	CLINDAMYCIN	REGATINE
+6003	No diabetes	Y	Y	N	Y	Y	N	N	N	Y	N	N	CEFEPIME	DOPAMINE	CLINDAMYCIN
+6004	No diabetes														
+6005	No diabetes	Y	Y	N	N	N	N	N	N	Y	N	Y	MYCAMINE	NARCAN	REGATINE
+6006	Other-No Diabetes														
+6007	No diabetes	Y	Y	N	Y	Y	N	Y	N	Y	N	Y	ANCEF		
+6008	No diabetes	N	N	N	N	Y	N	N	N	N	N	Y	CEFEPINE	ANCF	KCL
+6009	No diabetes	N	Y	N	N	Y	N	N	N	Y	N	N	LIDOCAINE	KPHOS	KCL
+6010	No diabetes	N	Y	N	N	N	N	N	N	Y	N	N	ANCEF		
+6011	No diabetes	Y	Y	N	N	N	N	N	N	Y	N	N	PROPOFOL	PENTOBARB	VANC
+6012	No diabetes	N	N	N	N	N	N	N	N	Y	N	N	ANCEF	ZOFRAN	LIDOCAINE
+6013	No diabetes	Y	Y	N	N	N	Y	N	N	Y	N	Y	VERSED	PROPOFOL	ANCEF
+6014	No diabetes	Y	Y	N	Y	N	N	N	N	Y	N	N	NARCAN	AMIODERONE	FACTOR 7
+6015	No diabetes	N	N	N	N	N	Y	N	N	Y	N	Y	ANCEF	PROPOFOL	
+6016	No diabetes	N	Y	N	N	N	N	N	N	Y	N	N	REGATINE		
+6017	No diabetes	Y	N	N	N	N	N	N	N	Y	N	Y	ANCEF	KCL	
+6018	Other-No Diabetes														
+6019	No diabetes	Y	Y	N	Y	Y	Y	N	N	Y	N	Y	NARCAN	FACTOR 7	D5D
+6020	No diabetes	N	N	N	N	Y	N	N	N	Y	N	Y	ANCEF	NEOSYNEPHRINE	
+6021	No diabetes	Y	N	N	N	N	N	N	N	Y	N	N	REGATINE	DOPAMINE	ANCEF
+6022	No diabetes	Y	Y	N	N	N	N	N	Y	Y	N	N	DOPAMINE	ANCEF	
+6023	Autoab Pos	N	N	N	N	Y	Y	N	N	Y	N	N	NEO	CEFEPIME	
+6024	No diabetes	Y	N	N	N	N	N	N	N	Y	N	Y	ANCEF	NEO	
+6025	T1D	Y	Y	N	N	Y	N	N	N	Y	N	Y	VACURONIUM	ANCEF (GMS)	CLINDAMYCIN (MGS)
+6026	T1D	Y	N	N	Y	N	N	N	N	Y	Y	Y	phenylephrine, levophed, nipride, zosyn, Pitressin	NA Thiosulphate, Insulin, Insulin, K phos, Narcan,	MGSO4, D50, Solumedrol, Insulin, Levothyroxine, Do
+6027	Autoab Pos	N	N	N	N	N	N	N	N	N	N	N			
+6028	T2D	Y	Y	N	N	N	N	N	N	Y	N	N	Ancef	PGE-1	
+6029	No diabetes	Y	Y	N	Y	N	N	Y	N	Y	N	N	NARCAN	PENICILLIN	CEFEPIME
+6030	No diabetes	N	N	N	N	N	N	N	N	Y	N	N	VANCOMYCIN	ANCEF	Gentamicin
+6031	T1D	N	N	N	N	N	N	N	N	N	N	N			
+6032	T1D	N	Y	N	Y	N	N	N	N	Y	Y	Y			
+6033	Monogenic Diabetes	Y	N	N	N	N	N	N	N	N	N	Y	Ancef	Neosynephrine	
+6034	No diabetes	Y	Y	N	N	N	N	N	N	N	N	Y	CLINDAMYCIN		
+6035	T1D	Y	Y	N	N	N	N	N	N	Y	Y	Y	PAVULON	ESMOLOL	
+6036	T1D	N	N	N	Y	N	N	N	N	Y	N	Y	dopa, neo, levo	zocyn, ancef	amiodarone
+6037	T2D	Y	N	N	Y	N	N	N	N	Y	Y	Y	narcan 8 mg		
+6038	T1D	Y	N	N	Y	N	N	N	N	Y	N	Y	CEFOTAXIME		
+6039	T1D	N	N	N	N	N	N	N	N	N	N	N			
+6040	T1D	Y	Y	N	Y	N	N	N	N	Y	Y	Y	vancomycin	ancef	
+6041	T1D	N	Y	N	N	N	N	Y	N	Y	N	N			
+6042	T1D Medalist														
+6043	Other-Diabetes	N	Y	N	Y	N	N	N	N	Y	Y	Y	dopamine, neo	ancef	fortaz
+6044	Autoab Pos	N	N	N	Y	N	N	N	N	N	N	N			
+6045	T1D	Y	Y	N	Y	N	N	N	Y	Y	Y	Y	Levophed Vanco Dextrose	CA doripenem KCL	Pancuronium
+6046	T1D	Y	N	Y	N	N	N	Y	N	Y	Y	Y			
+6047	No diabetes	Y	Y	N	Y	Y	N	Y	N	Y	Y	Y	CLEOCIN		
+6048	No diabetes	Y	Y	N	N	N	N	Y	Y	Y	Y	N	CEFEPIME	VANCOMYCIN	PROTONIX
+6049	T1D	Y	N	Y	N	N	N	N	N	Y	Y	Y			
+6050	T1D Medalist														
+6051	T1D	N	Y	N	Y	N	N	N	N	Y	Y	Y	ANCEF	neosynephrine	
+6052	T1D	N	Y	N	N	N	N	N	N	Y	Y	Y	Thorazine	Zosyn	
+6053	No diabetes	Y	Y	N	N	N	Y	N	N	Y	Y	N	CEFEPIME		
+6054	T1D	Y	N	N	Y	N	N	N	N	Y	N	N	fortaz, ancef	neo	
+6055	No diabetes	Y	Y	N	N	N	Y	Y	N	Y	Y	N		ALBUTEROL	CLINDAMYCIN
+6056	T1D Medalist														
+6057	No diabetes	N	Y	N	N	N	N	Y	N	Y	N	N			
+6058	No diabetes	N	Y	N	Y	N	N	N	N	Y	Y	N	CEFEPIME		
+6059	T2D	N	N	N	Y	N	Y	N	N	N	Y	Y	Neosynephrine, cipro,	sodium bicarbonate	
+6060	No diabetes	N	Y	N	Y	N	N	Y	N	Y	N	N	COLACE, PROTONIX, PROPOFOL	CLOACIN, LEVAQUIN, MORPHINE	VANCOMYCIN, AMINOPHLLINE
+6061	T1D	Y	Y	N	Y	N	Y	N	N	Y	N	Y	dextrose, Vit K, zosyn,esmolol, lopressor	labetolol, lovenox, kcl	
+6062	T1D	Y	Y	N	Y	N	Y	Y	N	Y	Y	Y	Insulin, Dopamine, Epinephrine, Vasopressin	T4,Albumin, Zosyn, Insulin, Vanco	Lasix,Solumedrol, Mannitol, Heparin
+6063	T1D	N	Y	N	N	N	N	N	N	Y	Y	Y	Levophed, Dopamine		
+6064	T1D	Y	Y	N	Y	Y	N	N	N	Y	Y	Y	VECURONIUM	ANCEF, VANCOMYCIN	LEVOPHED
+6065	T1D Medalist														
+6066	T1D Medalist														
+6067	T1D	Y	Y	N	Y	N	N	N	N	Y	N	Y	vancomycin,sodium bicarb,zosyn,dextrose		
+6068	T1D Medalist														
+6069	T1D	Y	Y	N	Y	N	Y	N	N	Y	Y	Y	Gentamicin, Clindamyicin,Cefaplime		
+6070	T1D	Y	Y	N	Y	N	N	N	N	Y	Y	Y	VANCOMYCIN	ZOSYN	
+6071	T1D														
+6072	No diabetes	Y	Y	N	Y	N	N	Y	N	Y	Y	N	CEFEPIME		KPHOS
+6073	No diabetes	Y	Y	Y	N	N	N	N	Y	Y	Y	Y	Invanz 1 gram	Magnesium 1 gram	potassium chloride 20 meq
+6074	T1D Medalist														
+6075	No diabetes	Y	Y	N	Y	N	N	Y	N	Y	Y	Y	cefepime	narcan	clindamycin
+6076	T1D	N	Y	N	Y	N	N	Y	N	Y	N	Y	Vanco		
+6077	T1D	Y	Y	N	N	N	N	N	N	Y	Y	Y	Levophed, Zosyn, K+	MgSO4	
+6078	T1D Medalist														
+6079	T1D	Y	Y	N	N	N	N	N	N	Y	Y	Y	DW1/4NS with 40K, Dopamine, Levophed, Pitressin	Insulin, D51/2NS,Vanco,	Mannitol, Lasix, Solumedrol, Pancuronium, Thimoglo
+6080	Autoab Pos	N	Y	N	Y	N	N	N	N	Y	N	N	ANCEF		
+6081	T1D	Y	N	N	N	N	N	Y	N	Y	N	N	Versed, Morphine,		
+6082	Gestational diabetes	N	Y	N	Y	N	N	N	N	Y	Y	Y			
+6083	T1D	Y	Y	N	Y	N	N	N	Y	Y	Y	Y	zosyn;fluconazole;	dopamine, epinephrine;	neosynephrine; magnesium sulfate
+6084	T1D	Y	Y	N	Y	N	Y	Y	N	Y	Y	Y	Albuterol, Atrovent, KCL	Labetalol, Cardene	
+6085	T1D Medalist														
+6086	T1D Medalist														
+6087	T1D	N	Y	N	Y	Y	Y	Y	N	Y	Y	Y	cefazolin/kcl/mag sulfate	ampd50/levophed/abluterol	dobutamine/esmolol/pancuronium/phentolamine
+6088	T1D	N	N	N	N	N	N	N	Y	Y	N	Y	ancef	ceftriaxone	
+6089	T1D	Y	Y	N	Y	N	Y	N	N	Y	N	Y	calcium chloride,clindamycin,sodium bicarb	cefotaxime,cipro	
+6090	Autoab Pos	Y	Y	N	Y	N	N	N	N	Y	Y	Y	Epinephrine,Vanco,KCl	Levaquin,Bactoban,Mg	NaHCO3,K-acetate,CaCl
+6091	No diabetes	Y	Y	N	Y	Y	N	N	N	Y	N	Y	ANTIBIOTIC	NIMBEX	
+6092	No diabetes	Y	Y	N	Y	N	N	N	N	Y	N	N			
+6093	T1D Medalist														
+6094	No diabetes	Y	Y	Y	N	N	N	N	N	Y	N	N	ZOSYN, DOBUTAMINE	VANCO LEVOPHED	UNASYN
+6095	No diabetes														
+6096	No diabetes	Y	Y	N	N	N	N	N	N	Y	Y	N	narcan, KCL		
+6097	No diabetes	Y	N	N	Y	N	Y	Y	Y	Y	Y	N			
+6098	No diabetes	Y	Y	N	Y	N	Y	N	N	Y	Y	Y	Neo, Dopamine, Ancef, Solumedrol, D50	KCL, Duoneb, Zosyn, Labetolol	Lasix
+6099	No diabetes	Y	Y	N	Y	N	N	N	N	Y	Y	Y	neosynephrine	merrem, KCL	flolan
+6100	T1D Medalist														
+6101	Autoab Pos	N	Y	N	Y	N	N	N	N	Y	N	Y	NaHC03, KCl, Cipro, Dopamine, Zosyn,K-oxalate	Levophed	
+6102	No diabetes	Y	Y	N	Y	N	N	N	N	Y	Y	Y	Epinephrine, Neo, Mg,KCL	Fentanyl,Ca++,Tylenol,Kphos	Vanco, Rocephin0
+6103	No diabetes	Y	N	N	Y	N	Y	N	N	Y	Y	Y	ANTIBIOTIC	SYNTHROID	REGITINE
+6104	No diabetes	Y	Y	N	N	N	N	Y	N	Y	N	N	NARCAN (Naloxone)	CEFEPIME	
+6105	Cystic fibrosis	N	N	N	N	N	N	N	N	Y	N	N	levophed	vancomycin, meropenem	albuterol, atrovent
+6106	No diabetes	Y	Y	N	Y	N	N	N	N	Y	Y	Y	Albuterol, Atrovent, Nystatin	Unasyn, Mag, Vit K	Na Bicarb, KCl, Pavulon
+6107	No diabetes	N	N	N	N	N	N	N	Y	Y	Y	N	Dopamine	Cefepime	Vancomycin
+6108	T2D	Y	Y	N	Y	N	N	N	N	Y	Y	Y			
+6109	T2D	Y	Y	N	Y	N	N	Y	N	Y	Y	Y	Neosynephrine, Dopamine, KCl, Zosyn, KPhos, NaHC03	Albuterol,	
+6110	T2D	N	Y	N	N	N	N	N	N	Y	N	Y	Vancomycin, zosyn, Diflucan	Normosol, Atrovent, Xopenex	
+6111	Other-No Diabetes	Y	Y	N	Y	N	N	Y	N	Y	Y	N	Vecuronium	cefepime	
+6112	No diabetes	Y	N	N	Y	N	N	Y	N	Y	Y	N	cipro,		
+6113	T1D	Y	N	N	Y	N	N	N	N	Y	Y	Y	Levophed, Narcan, Cefazolin, Meropenem	Vasopressin, Flagyl, Solumedrol, Ipratropium	Albuterol, Lanetalol, tylenol, KCL,
+6114	T2D	Y	N	N	Y	N	Y	N	N	Y	Y	Y	zosyn, d50, labetalol, narcan,		
+6115	No diabetes	Y	Y	N	N	N	N	N	N	Y	Y	N	CEFEPIME	GENTAMYCIN	vancomycin
+6116	Autoab Pos	N	N	N	N	N	N	N	N	Y	N	N	Ancef		
+6117	No diabetes	N	Y	N	Y	N	N	N	Y	Y	N	Y	Dopamine, KCL, Zosyn	Dextrose	
+6118	Other-No Diabetes	Y	N	N	Y	N	N	Y	N	Y	N	Y	Penicillin		
+6119	T1D	Y	Y	N	Y	N	N	N	N	Y	Y	Y	Ancef		
+6120	No diabetes														
+6121	T1D	Y	Y	N	Y	N	N	N	N	Y	Y	Y	narcan. phenylephrine	zosyn	atrovent, albuterol
+6122	No diabetes	Y	Y	N	Y	N	Y	N	Y	Y	Y	Y	atropine	cefazolin	zosyn, fluconazole
+6123	Autoab Pos	N	Y	N	N	N	N	Y	N	Y	Y	N	KCl,Neosynephrine	Morphine,Ancef	
+6124	T2D	N	N	N	N	N	N	N	N	Y	N	N			
+6125	No diabetes	Y	N	N	N	N	N	N	N	Y	Y	N	Fentanyl, Versed, Cefazolin		
+6126	No diabetes	Y	Y	N	Y	N	N	N	N	Y	Y	N	ANCEF		
+6127	T2D	N	Y	N	Y	N	N	N	N	Y	Y	Y	CEFAZOLIN	CEFTAZADIME	
+6128	T1D	N	N	N	N	N	Y	N	N	Y	N	Y	Zyvox, Rocuronium		
+6129	No diabetes	Y	Y	N	N	N	Y	N	N	Y	N	Y	zosyn		vecuronium
+6130	No diabetes	Y	Y	N	Y	N	N	N	N	Y	N	N	KCl, Zosyn, KPhos, Calcium Chloride	Lasix, Magnesium Sulfate	
+6131	No diabetes	Y	N	N	Y	N	N	N	N	Y	Y	N	dopamine, neo	levophed	ancef, vonco, zoayn
+6132	T2D	Y	N	N	Y	N	N	N	N	Y	Y	Y	ANCEF	LEVOPHED	
+6133	T2D	Y	N	N	Y	N	N	N	N	Y	N	Y	levophed, heparin, insulin, vecuronium, albumin	T4	dextrose, phenylephrine, solumedrol
+6134	No diabetes	Y	Y	N	Y	N	Y	N	N	Y	Y	N	NEO/BICARB	MILRINONE/CARDEINE	ANCEF
+6135	T1D	N	Y	N	N	N	N	N	N	Y	N	Y	VANCO	IMIPENEM	LEVOPHED, NEO
+6136	Cystic fibrosis	N	N	N	N	N	N	N	N	Y	N	N	AZITHROMYCIN/CEFTAZADIME	LEVOFLOXIN/LEVAQUIN	AMIKACIN/TOBRAMYCIN/VFEND
+6137	No diabetes	Y	N	N	Y	N	N	N	N	Y	Y	Y	NaPhos cefepime KCL	Solumederol clinda dopamine	piitressin Rocuronium Albumin
+6138	T1D	Y	Y	N	Y	N	N	N	N	Y	N	Y	Dopamine, ancef, sod bicarb	unasyn, mag sul, k phos, KCL	Sod Phos, pancuronium
+6139	T2D	Y	Y	N	Y	N	N	N	N	Y	N	Y	levothyroxine		
+6140	No diabetes	Y	Y	N	Y	N	Y	N	N	Y	Y	Y	ROCEPHIN/VANCOMYCIN	NIMBEX	BENADRYL
+6141	T1D	Y	N	N	Y	N	N	N	N	Y	Y	Y	FORTAZ, ANCEF	NEO	
+6142	T2D	Y	Y	N	Y	N	Y	N	N	Y	Y	Y			
+6143	T1D	N	N	N	N	N	N	N	N	Y	Y	Y	levophed cefepime vancomycin	Kphos Mg	
+6144	No diabetes	N	N	N	N	N	N	N	N	Y	N	N			
+6145	T1D														
+6147	Autoab Pos	N	Y	N	Y	N	N	N	N	Y	Y	Y	Zosyn, Dopamine, kcl	Vasopressin	
+6148	T1D	N	Y	N	Y	N	N	N	N	Y	N	Y	Neosynephrine	Dopamine	
+6149	T2D	Y	Y	N	N	N	Y	N	N	Y	N	N	Zosyn, Phenylephrine	Norcuron	
+6150	T1D	N	Y	N	Y	N	N	N	N	Y	N	Y	heparin, mannitol, levophed, KCl,	albuterol, zosyn, D5W, mucomyst, NaHCO3, insulin,	levothyroxine
+6151	Autoab Pos	Y	N	N	Y	N	N	N	N	Y	Y	Y	ANCEF	cefepime	neo
+6152	T1D	Y	N	N	N	N	N	N	N	Y	N	N	Levetiracetam	Vancomycin	Zosyn
+6153	No diabetes	Y	Y	N	N	N	N	N	N	Y	Y	N	ROCURONIUM/NEOSTIGMINE	ANCEF	NEOSYNEPHRINE/LEVOPHED
+6154	Autoab Pos	Y	Y	N	Y	N	N	N	N	Y	Y	N	NEOSYNEPHRINE	LEVOPHED, DOBUTAMINE	ANCEF, CLINDAMYCIN, Cisatracurium
+6155	T1D	N	Y	N	Y	N	N	N	N	Y	Y	Y	Pancuronium	Albumin	Narcan
+6156	Autoab Pos	N	Y	N	Y	N	N	N	N	Y	Y	N	levophed	epi, neo	ancef
+6157	T2D	Y	N	N	Y	N	N	N	N	Y	Y	Y	zosyn		
+6158	Autoab Pos	N	Y	N	Y	N	N	N	N	Y	Y	Y			
+6159	T1D	Y	N	N	Y	N	Y	N	N	Y	Y	Y	Ancef, Zosyn, Vancomycin, Solumedrol, Levothyroxin	Mag Sulfate, Albumin, KPhos, NaHCO3	VAsopressin, Labetalol, Pavulon
+6160	No diabetes	N	N	N	N	N	Y	N	Y	N	Y	Y			
+6161	T1D	N	Y	N	Y	N	Y	N	N	Y	N	Y	VANCOMYCIN/ZOSYN	NIMBEX/CISATRACURIUM	DOPAMINE/LEVOPHED/NEOSYNEPHRINE
+6162	No diabetes	N	Y	N	Y	N	N	N	N	Y	Y	N	unasyn		
+6163	T1D	Y	Y	N	Y	N	Y	N	N	Y	Y	Y	atrovent, albuterol	norepinephrine, dopamine	ancef
+6164	No diabetes	N	N	N	N	N	N	N	N	Y	N	N	Ancef		
+6165	No diabetes	N	Y	N	N	N	Y	N	N	Y	N	N	NIMBEX/NARCAN/FENTANYL	ALBUTEROL/ATROVENT	ZOSYN/TOBRAMYCIN/CISATRACURIUM
+6166	Monogenic Diabetes	Y	Y	N	N	N	Y	N	N	Y	N	Y	Dobutamine, Zosyn, KCl		
+6167	Autoab Pos	Y	Y	N	Y	N	N	N	N	Y	Y	Y	Ancef; CaCl; K Phos	Levophed	
+6168	No diabetes	N	Y	N	N	N	N	N	N	Y	Y	Y	Dopamine, Vancomycin,	Zosyn, KPhos, KCl	
+6169	T1D	Y	N	N	N	N	N	N	N	Y	N	Y	Dopamine, Zosyn	NaCl, Magnesium Sulfate	
+6170	Autoab Pos	Y	Y	N	N	Y	N	N	N	Y	N	Y	Neosynephrine, Zosyn, Tiamine, Vancomycin	KCl, Albuterol,	
+6171	Autoab Pos	N	Y	N	N	N	Y	N	N	Y	Y	N	epineprhrine, vecuronium	Clindamycin; Penicillin	dopamine, phenylephrine
+6172	No diabetes	Y	Y	N	Y	N	N	N	Y	Y	Y	Y			
+6173	T1D	Y	Y	N	Y	N	Y	N	N	Y	Y	Y	levophed, vancomycin, ceftriaxone, acyclovir	pot phos, cefepime, dopamine, KCL	phenylephrine, vecuronium
+6174	No diabetes	Y	N	N	Y	N	N	N	N	Y	Y	Y	dobutamine,	levophed, neosynephrine	Ancef
+6175	T1D	Y	N	N	Y	N	Y	N	N	Y	N	Y	solumedrol, zosyn, insulin, heparin, levophed,	albuterol, NaHCO3, CaCl, hydralazine,	levothyroxine
+6176	Monogenic Diabetes	N	Y	N	Y	N	N	N	N	Y	N	Y	Levophed, Dopamine	Cipro,Diflucan,Magnesium	Vancomycin,NaCl
+6177	Gestational diabetes	Y	N	N	Y	N	N	N	N	Y	Y	Y	Solumedrol, zosyn,KCL	Mg,Ca Gluconate	
+6178	No diabetes	Y	Y	N	Y	N	N	N	N	Y	Y	Y	Fentanyl,KCL, Calcium Gluconate		
+6179	No diabetes	Y	N	N	N	N	N	N	N	Y	Y	N	Lacrilube, NaHCO3		
+6180	T1D	Y	N	N	Y	N	N	N	Y	Y	Y	Y			
+6181	Autoab Pos	N	Y	N	Y	N	N	N	N	Y	Y	N	Ancef, fortaz	Neosynephrine	
+6182	No diabetes														
+6183	No diabetes	N	N	N	N	N	N	Y	N	Y	N	N	Intralipid,Versed,Bosentan	Tobramycin,Viagra,vanco	Chlorothiazide
+6184	Autoab Pos	Y	N	N	Y	N	N	Y	N	Y	N	Y	KCl, Zosyn, Albuterol,	Levaquin, Labetalol	
+6185	T2D	Y	Y	N	N	N	N	N	N	N	Y	Y	CACL, Diuril, zosyn		
+6186	T2D	Y	N	N	N	Y	N	N	N	Y	Y	Y	Levophed. Neosynephrine	Zosyn	
+6187	No diabetes	N	N	N	N	N	N	Y	N	Y	N	N	Rocephin	Vancomycin	
+6188	T2D	Y	Y	N	N	N	N	N	N	Y	N	Y	Levophed	Zosyn	1/2 NS
+6189	T2D	N	N	N	N	N	Y	N	N	Y	N	Y	Levophed, Zosyn	Keflex	Vancomycin
+6190	No diabetes	Y	Y	N	Y	N	N	N	N	Y	Y	N	Vancomycin, Zosyn, KCL		
+6191	T2D	Y	Y	N	Y	N	N	N	N	Y	N	Y	Vecuronium	Cefepime	
+6192	No diabetes														
+6193	T1D	N	N	N	Y	N	N	N	N	Y	Y	Y	ANCEF, CEFEPIME	DOPAMINE	
+6194	T2D	Y	N	N	Y	N	N	N	N	Y	N	Y	Levaquin, Zosyn	Atrovent, Albuterol	
+6195	T1D	N	Y	N	Y	N	N	N	N	Y	N	N	K PHOS, MAG, NEO	LEVOPHED	ANCEF
+6196	T1D	Y	N	N	N	N	N	N	N	Y	N	Y	Levophed	Zosyn	
+6197	Autoab Pos	Y	Y	N	Y	N	N	N	N	N	Y	Y	KCL, Dopamine,MSo4	Zosyn, Labetalol	Vancomycin
+6198	T1D	Y	Y	N	N	N	N	N	N	Y	Y	Y	vancomycin, cipro, zosyn, magnesium	calcium, potassium, dopamine	
+6199	T2D	Y	Y	N	Y	N	N	N	N	Y	N	N	vec,duo neb,dopamine	atrovent,bss,albuterol	unasyn
+6200	No diabetes														
+6201	No diabetes														
+6202	Cystic fibrosis														
+6203	T2D	Y	N	N	Y	N	N	N	N	Y	N	Y	Levophed at 5 mcg/min	Vecuronium	
+6204	T1D	Y	Y	N	N	N	N	N	N	Y	N	Y	Zosyn, Vancomycin,	Methyl Prednisolone	
+6205	T1D	Y	N	N	N	N	Y	N	N	Y	N	Y	cefepime	dopamine	
+6206	T2D	N	N	N	Y	N	Y	N	N	Y	Y	Y	Neosynephrine, Zosyn	Levophed, Diflucan	Rocuronium
+6207	T1D	Y	N	N	N	N	N	Y	N	Y	Y	Y	Levophed, MGS04, Cardizem, Mg Sulfate	Vecuronium, LR, Albumin, Atropine, Narcan	Epinephrine, Lidocaone, Falgyl, Cefepime, Vanomyc
+6208	T1D	Y	Y	N	Y	Y	N	N	N	Y	Y	Y	Vancomycin	Zosyn	Mycamine
+6209	T1D														
+6210	No diabetes														
+6211	T1D														
+6212	T1D	Y	Y	N	Y	N	Y	Y	N	Y	N	Y	albuterol	Levofloxacin	
+6213	Other-No Diabetes	Y	Y	N	Y	N	N	N	N	Y	N	N	ancef, cefazadime	neo	
+6214	No diabetes														
+6215	T1D	Y	N	N	Y	N	N	N	N	Y	Y	Y	vancomycin, levophed, dopamine	D50, zosyn, narcan, albuterol, peridex	vecuronium, protonix, neosynephrine
+6216	Other-No Diabetes	N	Y	N	Y	N	N	N	Y	Y	Y	N	cefipime, prostsglani	vanko, neo, lopressor	flagyl, fortaz
+6217	No diabetes	N	N	N	N	N	N	N	N	Y	N	N	Ancef		
+6218	No diabetes	N	N	N	N	Y	N	N	N	Y	Y	N	cefotaxime, clindamycin	alteplase	
+6219	No diabetes	N	Y	N	N	N	Y	Y	N	Y	Y	N	Versed, Rocuronium	Fentanyl	Ancef
+6220	T1D	N	N	N	N	N	N	N	N	Y	N	Y	Vancomycin	Azithromycin	Rocephin
+6221	T2D	Y	N	N	Y	N	N	N	N	Y	Y	Y	Ciprofloxacin	Atrovent, Albuterol	Clindamycin
+6222	No diabetes	Y	Y	N	N	N	N	Y	N	Y	Y	N	Fentanyl, Albumin 5%,	Cefotaxime, Rocuronium	Epinephrine
+6223	T1D	Y	Y	N	N	N	Y	N	N	Y	N	Y	KCl, Albuterol, Zosyn,	Vancomycin,	
+6224	T1D	Y	Y	N	Y	N	N	N	N	Y	Y	N	Ancef,Clindamycin	Vencuronium,Levaquin	Levophed
+6225	Other-No Diabetes	Y	N	N	Y	N	N	N	N	Y	Y	Y	vancomycin, meropenem	fentanyl, rocuronium	
+6226	Pregnancy	Y	Y	N	N	N	Y	Y	N	Y	N	Y	mucomyst, aztreonam		
+6227	No diabetes	N	N	N	Y	N	N	N	N	Y	Y	Y	Recuronium	Cefazolin	Albuterol
+6228	T1D	Y	Y	N	Y	N	N	N	N	Y	Y	Y	Unasyn,	Solu-Cortef	KCl,
+6229	No diabetes	Y	Y	N	Y	N	N	N	N	Y	N	Y	Zosyn		
+6230	No diabetes	N	N	N	Y	N	N	N	N	Y	Y	Y	duoneb zosyn	fentanyl vecuronium	levophed, neosynephrine
+6231	T1D	Y	Y	N	Y	N	N	N	N	Y	N	N	Ancef	Vanco	Zosyn
+6232	No diabetes	N	Y	N	Y	N	N	N	N	Y	N	N	Dobutamine, Vanc, Zosyn	Reglan, Dopamine	Norcuron
+6233	No diabetes	Y	N	N	Y	N	Y	N	N	Y	Y	Y	solumedrol, rocuronium, vecuronium	esmolol, zosyn	dopmaine
+6234	No diabetes	Y	Y	N	Y	N	N	N	Y	Y	N	Y	vancomycin,cefepime,KCL	levophed,neosynephrine,LR,NS,Albumin	cipro,peridex,rocuronium
+6235	No diabetes	Y	Y	N	N	N	N	N	N	Y	N	N	Ancef, Levophed,	Vecuronium	
+6236	T1D	Y	Y	N	N	N	N	N	N	Y	N	Y	Ancef		
+6237	T1D	Y	Y	N	Y	N	N	Y	N	Y	Y	Y	Solumedrol, NS, Levothryoxinw, KCL, Lasix	Cardene, Cardizem, LR, NaHco3	Etomidate,Lidocine,Neosynephri Sulfate,  Ephedrine
+6238	No diabetes	Y	N	N	Y	N	N	N	Y	Y	Y	Y	KPhos,KCL,Rocuronium	Neosynephrine,Zosyn,MagSulfate	Protonix, Albuterol, Dextrose
+6239	Gestational diabetes	Y	N	N	Y	N	N	N	N	Y	N	N	Zosyn, Dobutamine	CACL, Vecuronium	
+6240	T1D	Y	Y	N	Y	N	N	N	N	Y	N	N	rocuronium,amiodarone,albuterol	flagyl,zosyn,atrovent	vancomycin,levophed,dopamine
+6241	T1D	Y	Y	N	Y	N	N	N	N	Y	Y	Y	Clindamycin 900 mg q6h	Cefepime 900 mg q6h	
+6242	T1D	Y	N	N	Y	N	Y	N	N	Y	Y	N	Ancef	rocuronium	Dobutamine
+6243	T1D	Y	Y	N	Y	N	Y	N	N	Y	N	Y	cefazolin	clindamycin	
+6244	T1D	Y	Y	N	Y	N	N	Y	N	Y	Y	Y	Atrovent, Albuterol	Ancef	
+6245	T1D	N	N	N	Y	N	N	N	N	Y	Y	Y	Albuterol	Ancef and Zosyn	
+6246	T1D	Y	Y	N	Y	N	N	N	N	Y	N	Y	Vanco, Ceftriaxone,	Clindamycin, Levofloxacin	
+6247	T1D														
+6248	Gestational diabetes	N	Y	N	Y	N	N	N	N	Y	Y	Y	Levophed, Dopamine, Zosyn	Zyvox, MgS04, CaCl,	Vecuronium, NaHC03
+6249	T2D	N	Y	N	Y	N	N	N	N	Y	N	N	Zosyn, Visipaque	Versed	
+6250	No diabetes	Y	Y	N	Y	N	N	N	N	Y	N	Y	cardizem	cefazolin	
+6251	No diabetes	N	N	N	N	N	N	N	N	Y	N	N	Ancef 1 Gm  q8h		
+6252	T2D	Y	Y	N	Y	N	N	N	N	Y	Y	Y	Fentanyl, Vecuronium	Levophed, Zosyn	Vancomycin, Fluconazole
+6253	No diabetes	Y	Y	N	Y	N	Y	N	N	Y	N	N	neosynephrine	dobutamine, bicarb	ancef, fortaz
+6254	No diabetes	N	N	N	N	N	N	N	N	Y	N	Y	Ancef		
+6255	T2D	Y	Y	N	N	N	N	N	N	Y	N	N	Amphoteracin B, Ancef	Calcium Glucaonate	ephedrine, dopamine
+6257	Pregnancy	N	Y	N	Y	N	Y	Y	N	Y	Y	N	levophed drip, neosynephrine boluses in OR	rocuronium, fentanyl, narcan, fluconazole	zosyn, vancomycin, combivent
+6258	T1D	Y	Y	N	Y	N	N	N	N	Y	N	Y	cefazolin		
+6259	T2D	N	Y	N	N	N	N	N	N	Y	N	Y	Zosyn		
+6261	T1D	N	Y	N	N	N	N	N	N	Y	Y	Y	Zosyn	Levophed	
+6262	T1D	Y	Y	N	Y	N	N	N	Y	Y	N	Y	zosyn, KCL, levophed	Dextrose, Bicarb	vecuronium. lasix
+6263	T1D	N	N	N	N	N	Y	Y	N	Y	N	Y	Rocuronium, Ancef	Zosyn, Vancomycin, Cefazolin	Duoneb
+6264	T1D	N	Y	N	N	N	N	N	N	Y	Y	Y	Cefotaxime	Ranitidine	Vancomycin
+6265	T1D	N	Y	N	Y	N	N	N	Y	Y	N	Y	Zosyn	Vancomycin	
+6266	T1D	Y	Y	N	Y	N	Y	N	Y	Y	N	Y	MgSO4,		
+6267	Autoab Pos	Y	Y	N	Y	N	N	N	N	Y	Y	Y	Levophed, Levaquin, Rocuronium		
+6268	T1D	Y	Y	N	Y	N	N	N	N	Y	Y	Y	D51/2NS with KCL, Hydrocortisone, Vancoymcin	Ceftriaxone, Pepcid, Ancef	KCL, Vecuronium, LR
+6269	T2D	N	Y	N	Y	N	Y	N	N	Y	N	Y	Rocuronium, Levophed	Ceftriaxone, Arithromycin	Ranitidine, Senna, Ca
+6270	Gastric Bypass	Y	Y	N	N	N	Y	N	N	Y	N	N	Vancomycin, Zosyn, Levaquin	Zithromax, Rocephin	Vecuronium
+6271	No diabetes	Y	Y	N	N	N	N	N	N	Y	Y	N	Neosynephrine	Levophed	
+6272	T2D	N	Y	N	Y	N	N	Y	N	Y	N	N			
+6273	T2D	Y	Y	N	Y	N	Y	Y	N	Y	Y	Y	Vecuronium, Albuterol	Ancef	Mucomyst
+6274	Gastric Bypass														
+6275	T2D	Y	N	N	N	N	N	N	N	N	N	N	NS, Vancomycin, Zosyn, K Phos		
+6276	Other-Diabetes	N	N	N	Y	N	N	N	N	Y	N	Y	Vecuronium, Ancef	rocuronium	Neosynephrine
+6277	T2D	Y	Y	N	Y	N	N	N	N	Y	Y	Y	Albuterol	Dopamine, Levophed	
+6278	No diabetes	Y	Y	N	N	N	N	N	N	Y	Y	Y	Levophed,	Vancomycin, Ephedrine	Vecuronium, Neosynephrine
+6279	No diabetes	N	N	N	N	N	N	N	N	Y	N	Y	Ceftriaxone	Lansoprazole	
+6280	T2D	Y	N	N	Y	N	Y	N	N	Y	N	Y	D50, Zosyn	Vecuronium	Phenylephrine
+6281	T1D	N	N	N	Y	N	N	N	N	Y	Y	Y	Vanco	Zosyn	Levophed
+6282	No diabetes	N	Y	N	N	N	Y	N	Y	Y	Y	Y	Zosyn, Dopamine, D50,	Rocuronium, Ancef, Fentanyl,	
+6283	T2D	Y	Y	N	Y	N	Y	N	N	Y	Y	Y	KCl, Neosynephrine, Esmolol	Ancef, Sevoflurane	Sodium Bicarb
+6284	Other-Diabetes	Y	Y	N	Y	N	N	N	Y	Y	N	Y	KCL, Zosyn Neosynephrin	albuterol, Rocuronium	Sevoflurane
+6285	T1D														
+6286	Transplant	Y	N	N	N	N	N	N	N	Y	N	N	KPhos, KCl, Ancef	CaCl	Norcuron
+6287	Other-No Diabetes	Y	Y	N	Y	N	N	Y	N	Y	Y	N	Dopamine,DuoNeb,Levaquin		
+6288	No diabetes	Y	Y	N	N	N	N	N	N	Y	N	N	Levo, Neo, Vec, KPhos, CaGluc	Solucortef, Vanc, Meropenem	Albuterol, Ipratropium
+6289	No diabetes	Y	N	N	U	N	N	N	N	Y	Y	N	Alburerol, Zozyn	Nimbex, Dopamine	
+6290	No diabetes	Y	Y	N	N	N	N	N	U	Y	Y	N		Fentanyl	Rocuronium, Neosynesphrine
+6291	Transplant	Y	Y	N	N	N	Y	N	N	Y	N	Y	Ancef, Mucomyst, Duo-Neb	Phenylephrine, cistracurium	
+6292	No diabetes	N	Y	N	Y	N	N	Y	N	Y	Y	Y	Epinephrine, Vncomycin,	Zosyn	
+6293	No diabetes	Y	N	N	Y	N	N	N	N	Y	N	Y	Sodium Bicarb	Zosyn, Lidocaine	Albuterol, Vecuronium
+6294	No diabetes	Y	N	N	Y	N	N	N	N	Y	Y	N	Cipro	Albuterol	
+6295	No diabetes	Y	Y	N	Y	N	N	N	N	Y	Y	N	rocuronium,xopenex,atrovent	unasyn.nystatin,neosynephrine	atropine
+6296	T1D	N	Y	N	Y	N	N	N	N	Y	Y	Y	Epinephrine, Ancef, Magnesium Sulfate	Levophed, Levaquin	Neo-Synephrine, KCl
+6297	T2D	Y	Y	N	Y	N	N	N	N	Y	Y	Y	Dobutamine, Epinephrine	Zosyn, Rocuronium	
+6298	T1D														
+6299	T1D	Y	Y	N	Y	N	N	N	N	Y	N	Y	Levophed, Zosyn,	Benadryl, Dobutamine,	Rocuronium
+6300	T2D	Y	N	N	N	N	N	N	N	Y	N	Y	ROCURONIUM,MICAFUNGIN,NEOMYCIN (GMS),BICARB (MEQ)	ALBUTEROL (NEBULIZER),ERYTHROMYCIN (GMS)	CEFEPIME (GMS),NYSTATIN (UNITS),ATORVASTATIN (MGS)
+6301	Autoab Pos														
+6302	T1D	Y	N	N	N	N	N	N	N	Y	N	Y	Levophed, Rocuronium, Zosyn		
+6303	Autoab Pos	Y	Y	N	N	N	N	N	N	Y	Y	Y	Dobutamine, Zosyn, KCl,	Dopamine, Vecuronium	
+6304	T2D	N	N	N	N	N	N	N	N	Y	Y	N	Nimbex, Neosynephrine	mucomyst,albuterol	
+6305	No diabetes	Y	Y	N	Y	N	N	N	N	N	N	Y	Epinephrine, Albuterol,Zemuron	Cefotaxine, Ipratropium	Vancomycin
+6306	T1D	Y	Y	N	Y	N	N	N	N	Y	Y	Y	Zosyn, Dopamine	epinephrine	
+6307	T1D	N	Y	N	Y	N	N	N	N	Y	N	Y			
+6308	T2D	Y	Y	N	N	N	Y	Y	N	Y	N	N	Acyclovir, Cefepime, Vanco	Roc, Fentanyl	
+6309	No diabetes	Y	Y	N	N	N	N	N	N	Y	N	N	Rocuronium, Zosyn		
+6310	Autoab Pos	N	Y	N	Y	N	N	N	N	Y	N	N	ancef	ceftriaxone	
+6311	No diabetes	Y	Y	U	U	U	Y	U	U	Y	Y	U	zosyn	cefuroxime	
+6312	Transplant	Y	Y	N	N	N	N	N	N	Y	Y	Y	Dobutamine	Zosyn	
+6313	No diabetes														
+6314	Autoab Pos	N	Y	N	Y	N	Y	N	N	Y	Y	N	neo,levo, bicarb	nicardapine	ancef, cefepine
+6315	No diabetes	Y	Y	Y	N	N	N	N	N	Y	Y	Y	5% albumin, epinephrine, ancef, neosynephrine	levophed, calcium chloride, fentanyl, plasmalyte	versed, zemuron
+6316	No diabetes	N	Y	N	N	N	Y	N	N	Y	Y	Y	Ceftriaxone	Rocuronium	
+6317	No diabetes	Y	Y	N	N	N	N	N	N	Y	N	N			
+6318	No diabetes	N	Y	N	N	N	N	N	N	Y	N	N	Fentanyl, Versed	Ancef, Propofol	Albuterol, Albumin
+6319	T1D														
+6320	Monogenic Diabetes	N	N	N	N	N	N	N	N	Y	N	Y	Zosyn	KPhos	Vancomycin
+6321	T1D														
+6322	T1D														
+6323	T1D														
+6324	T1D														
+6325	T1D														
+6326	Other-Diabetes														
+6327	T1D														
+6328	T1D														
+6329	T2D														
+6330	T1D														
+6331	No diabetes														
+6332	Transplant														
+6333	No diabetes														
+6334	No diabetes														
+6335	No diabetes														
+6336	No diabetes														
+6337	T1D														
+6338	No diabetes														
+6339	No diabetes														
+6340	No diabetes														
+6341	T1D														
+6342	T1D														
+6343	No diabetes														
+6344	No diabetes														
+6345	Other-Diabetes														
+6346	No diabetes														
+6347	Autoab Pos														
+6348	No diabetes														
+6349	No diabetes														
+6350	No diabetes														
+6351	No diabetes														
+6352															
+6353	No diabetes														
+6354	No diabetes														
+6355	Other-Diabetes														
+6356	No diabetes														
+6357	No diabetes														
+6358	No diabetes														
+6359	No diabetes														
+6360	T1D														
+6361	Other-No Diabetes														
+69	T1D	N	N	N	N	N	N	N	N	Y	N	N	DOBUTAMINE	EPINEPHRINE	CEFEPIME
+8003	No diabetes														
